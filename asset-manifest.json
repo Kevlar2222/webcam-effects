@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/webcam-effects/static/css/main.5f361e03.chunk.css",
-    "main.js": "/webcam-effects/static/js/main.4892822b.chunk.js",
-    "main.js.map": "/webcam-effects/static/js/main.4892822b.chunk.js.map",
+    "main.css": "/webcam-effects/static/css/main.67a4a457.chunk.css",
+    "main.js": "/webcam-effects/static/js/main.0833b416.chunk.js",
+    "main.js.map": "/webcam-effects/static/js/main.0833b416.chunk.js.map",
     "runtime-main.js": "/webcam-effects/static/js/runtime-main.8c510700.js",
     "runtime-main.js.map": "/webcam-effects/static/js/runtime-main.8c510700.js.map",
-    "static/js/2.4ea69667.chunk.js": "/webcam-effects/static/js/2.4ea69667.chunk.js",
-    "static/js/2.4ea69667.chunk.js.map": "/webcam-effects/static/js/2.4ea69667.chunk.js.map",
+    "static/js/2.caeede26.chunk.js": "/webcam-effects/static/js/2.caeede26.chunk.js",
+    "static/js/2.caeede26.chunk.js.map": "/webcam-effects/static/js/2.caeede26.chunk.js.map",
     "index.html": "/webcam-effects/index.html",
-    "precache-manifest.3b1b299b921d63c49fd5c614b7272bcb.js": "/webcam-effects/precache-manifest.3b1b299b921d63c49fd5c614b7272bcb.js",
+    "precache-manifest.ad3b72583cf1b2933c15293a07065914.js": "/webcam-effects/precache-manifest.ad3b72583cf1b2933c15293a07065914.js",
     "service-worker.js": "/webcam-effects/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/webcam-effects/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.4ea69667.chunk.js.LICENSE.txt": "/webcam-effects/static/js/2.4ea69667.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/webcam-effects/static/media/logo.5d5d9eef.svg"
+    "static/css/main.67a4a457.chunk.css.map": "/webcam-effects/static/css/main.67a4a457.chunk.css.map",
+    "static/js/2.caeede26.chunk.js.LICENSE.txt": "/webcam-effects/static/js/2.caeede26.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8c510700.js",
-    "static/js/2.4ea69667.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.4892822b.chunk.js"
+    "static/js/2.caeede26.chunk.js",
+    "static/css/main.67a4a457.chunk.css",
+    "static/js/main.0833b416.chunk.js"
   ]
 }
