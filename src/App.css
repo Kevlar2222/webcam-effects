@@ -1,38 +1,55 @@
-.App {
+body {
+  background-color: #ffc600;
+  font-family: 'URW Chancery L', cursive;
+}
+
+h1 {
+  font-size: 8vh;
+  margin: 0;
+}
+
+h2 {
+  font-size: 5vh;
+  margin: 0;
+}
+
+label {
+  display: flex;
+  flex: 1 1 100px;
+  font-family: 'URW Chancery L', cursive;
+  font-size: 26px;
+  justify-items: center;
+  justify-content: center;
+}
+
+.navBar {
+  border: 1px solid white;
+  display: flex;
+  margin: auto;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  width: 640px;
+}
+
+.video {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 150px;
+  width: 200px;
+}
+
+.videoContainer {
+  display: flex;
+  justify-content: center;
+}
+
+#subtitle {
+  color: white;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+#title {
   color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  text-align: center;
 }
