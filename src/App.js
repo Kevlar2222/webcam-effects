@@ -29,9 +29,6 @@ function Title() {
       <div id="title">
         <h1>Webcam Effects</h1>
       </div>
-      <div id="subtitle">
-        <h2>By Kevin Satti</h2>
-      </div>
       <video className="video"></video>
     </div>
   );
