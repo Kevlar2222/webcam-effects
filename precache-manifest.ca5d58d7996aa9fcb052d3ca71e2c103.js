@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb18eb2448970a6d5dffad6208850b62",
+    "revision": "d22adbbccd6f3080396ce80acac908e3",
     "url": "/webcam-effects/index.html"
   },
   {
