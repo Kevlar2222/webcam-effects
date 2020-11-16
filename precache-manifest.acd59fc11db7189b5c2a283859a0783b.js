@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d22adbbccd6f3080396ce80acac908e3",
+    "revision": "706b9001306afdc0ad41091f32eaa3fe",
     "url": "/webcam-effects/index.html"
   },
   {
-    "revision": "a5d30c000e9ba2684a5b",
-    "url": "/webcam-effects/static/css/main.67a4a457.chunk.css"
+    "revision": "cb2db88ed95493d6f642",
+    "url": "/webcam-effects/static/css/main.07e45043.chunk.css"
   },
   {
     "revision": "70ef857789e1d5cafa5a",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/webcam-effects/static/js/2.caeede26.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a5d30c000e9ba2684a5b",
+    "revision": "cb2db88ed95493d6f642",
     "url": "/webcam-effects/static/js/main.64e7849c.chunk.js"
   },
   {
