@@ -53,3 +53,19 @@ label {
   color: white;
   text-align: center;
 }
+
+@media all and (max-width: 1050px) {
+
+  .video {
+    display: none;
+  }
+
+}
+
+@media all and (max-width: 650px) {
+
+  .navBar {
+    width: 100%;
+  }
+
+}
